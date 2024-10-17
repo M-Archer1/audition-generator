@@ -1,0 +1,28 @@
+# Scale Generator
+Randomly create a message that requests a musician to play a certain scale on a certain instrument in major or minor.
+
+Player # 1 (etc, each time it is refreshed the player number should increase by 1)
+
+## Random Elements
+* instrument
+* scale letter
+* major or minor
+
+### Instrument Options
+- Flute
+- Oboe
+- Clarinet
+- Alto Sax
+- French Horn
+- Trumpet
+- Trombone
+- Baritone
+- Tuba
+- Violin
+- Viola
+- Cello
+- Bass
+
+### Scale Letters
+- C, F, B-flat, E-Flat, A-flat, D-flat, G-flat
+- G, D, A, E, B
