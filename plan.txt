@@ -1,5 +1,5 @@
 # Scale Generator
-Randomly create a message that requests a musician to play a certain scale on a certain instrument in major or minor.
+Generate message for an audition that requests musician play certain scale in major or minor and a certain sight reading excerpt.
 
 Player # 1 (etc, each time it is refreshed the player number should increase by 1)
 
@@ -8,21 +8,15 @@ Player # 1 (etc, each time it is refreshed the player number should increase by 
 * scale letter
 * major or minor
 
-### Instrument Options
-- Flute
-- Oboe
-- Clarinet
-- Alto Sax
-- French Horn
-- Trumpet
-- Trombone
-- Baritone
-- Tuba
-- Violin
-- Viola
-- Cello
-- Bass
+### Sight reading
+Options for Excerpts 1-5
 
 ### Scale Letters
 - C, F, B-flat, E-Flat, A-flat, D-flat, G-flat
 - G, D, A, E, B
+
+Modules
+- Data Module data.js
+- Random number Module randmon.js
+- Object Module object.js
+- Main module for creating object with data and generate page content script.js
