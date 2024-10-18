@@ -17,6 +17,6 @@ Options for Excerpts 1-5
 
 Modules
 - Data Module data.js
-- Random number Module randmon.js
+- Random number Module random.js
 - Object Module object.js
 - Main module for creating object with data and generate page content script.js
