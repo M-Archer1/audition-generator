@@ -4,4 +4,4 @@ function randomIndex(arr) {
   return randomIndex;
 }
 
-export {randomIndex};
+export { randomIndex };
