@@ -1,7 +1,4 @@
 import messageData from "./modules/data.js";
-import { randomIndex } from "./modules/random.js";
-
-const {scaleLetters, majorMinor, sightReading, randomScale, randomEtude} = messageData;
 
 function nextAudition() {
   let number = Number(auditionNumber.textContent);
