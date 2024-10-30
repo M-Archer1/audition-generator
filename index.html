@@ -4,12 +4,30 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Audition Generator</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="./script.js" type="module"></script>
 </head>
 <body>
   <h1>Random Audition Generator</h1>
-  <h2>Audition #1</h2>
-  <p>Applicant will play the C Major scale</p>
-  <p>The sight reading will be Etude #1</p>
-  <button>Next Audition</button>
+  <section id="audition">
+    <h2>Audition #<span id="audition-number">1</span></h2>
+    <p>Contestant should play the scale and sight reading etude listed below</p>  
+  </section>
+
+  <section class="box">
+    <h3>Scale</h3>
+    <p id="scale"></p>
+  </section>
+
+  <br>
+  
+  <section class="box">
+    <h3>Sight Reading</h3>
+    <p id="etude"></p>  
+  </section>
+
+  <br>
+
+  <button class="btn" id="audition-button">Next Audition</button>
 </body>
 </html>
