@@ -1,6 +1,6 @@
 function randomIndex(arr) {
   const length = arr.length;
-  const randomIndex = math.Floor(Math.random() * length);
+  const randomIndex = Math.floor(Math.random() * length);
   return randomIndex;
 }
 
