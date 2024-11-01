@@ -6,3 +6,8 @@ I created this as part of the Mixed Messages portfolio project in the Codecademy
 I decided to create a program that could help with live music auditions.  Often in live band and orchestra auditions a contestant will be required to play certain scales and etudes, and the judge is required to select these at random from a predetermined list.
 
 This webpage will generate a random scale and sight-reading etude for each contestant.  The judge can click "Next Audition" to move to the next candidate.
+
+## How To Use
+You can visit the page here: https://m-archer1.github.io/audition-generator/
+
+Click "Next Audition" to randomly generate audition materials.  There are 5 sight-reading etudes and a variety of major and minor scales!
