@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 
-/* Basic Typography */
 body {
   font-family: "Raleway", sans-serif;
   line-height: 1.6;
@@ -22,7 +21,6 @@ p {
   margin-bottom: 1rem;
 }
 
-/* Utility Classes */
 .container {
   width: 80%;
   margin: 0 auto;
