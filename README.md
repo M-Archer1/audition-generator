@@ -11,3 +11,6 @@ This webpage will generate a random scale and sight-reading etude for each conte
 You can visit the page here: https://m-archer1.github.io/audition-generator/
 
 Click "Next Audition" to randomly generate audition materials.  There are 5 sight-reading etudes and a variety of major and minor scales!
+
+## Opportunities for Improvement
+Creating ways for judges to submit scores based on the scale and etude selected would be a great way to take this project to the next level.
